@@ -31,7 +31,7 @@ This repository contains automated scripts for downloading and processing Surfac
    ```bash
    git clone https://github.com/shahzaib1007/SWOT.git
    cd SWOT
-
+    ```
 2. **Create and activate Conda environment**
 
    ```bash
@@ -42,7 +42,7 @@ This repository contains automated scripts for downloading and processing Surfac
 
 ### 1. Update Download_SWOT_Data.py with:
 * data_path
-* earthdata access, via netrc [check steps here] (https://urs.earthdata.nasa.gov/documentation/for_users/data_access/curl_and_wget)
+* earthdata access, via netrc (check steps here) [https://urs.earthdata.nasa.gov/documentation/for_users/data_access/curl_and_wget]
 * bounding_box
 * geojson_file and UTM info based on the geojson file
 
